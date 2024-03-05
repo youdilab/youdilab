@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youdilab.
-- 👀 I’m interested in audio applications development.
-- 🌱 I’m currently learning JUCE and C++.
-- 💞️ I’m looking to collaborate on audio applications, VST plugin development projects.
+- 👀 I’m interested in audio applications development and AI.
+- 🌱 I’m currently working in JUCE and C++.
+- 💞️ I’m looking to collaborate on audio applications, VST plugin development and AI projects.
 - 📫 How to reach me => youdilabnotes@gmail.com
 
 <!---
